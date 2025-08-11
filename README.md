@@ -6,7 +6,7 @@ Metallic Amorphous Structures Toolkit
 
 
 <p align="center">
-  <img src="logo.png" alt="MAST Logo" width="200"/>
+  <img src="logo.jpg" alt="MAST Logo" width="200"/>
 </p>
 
 
