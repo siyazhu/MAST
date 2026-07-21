@@ -41,3 +41,9 @@ Edit the Makefile:
 ```sh
 make install
 ```
+
+---
+
+## License
+
+MAST is released under the MIT License. See [LICENSE](LICENSE).
